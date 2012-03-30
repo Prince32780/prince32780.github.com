@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+
+#spinner {
+	position: absolute;
+	top: 199px;
+	left: 122px;
+	margin: -100px 0 0 -100px;
+	height: 240px;
+	width: 255px;
+	text-indent: 250px;
+	white-space: nowrap;
+	overflow: hidden;
+}
